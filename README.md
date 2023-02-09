@@ -7,4 +7,5 @@ Declared naive bayen ML algo for CODE 1 and SVM method for CODE 2, to fit and tr
 After prediction the data it is stored in y_pred and data is present in y_test
 
 After running both the codes and as per comparing the accuracy between both the methods, We can say that NaiveBayen has performed better than the SVM method.
+
 JUSTIFICATION :: Naive Bayes algorithm is more accurate and efficient on large datasets since the space complexity and time is less when compared to SVM method.
